@@ -1,6 +1,7 @@
 class Solution {
 public:
-    //merge with till value looping 
+    //merge with till value looping till the n and m value
+    
     void merge(vector<int>& v1, int m, vector<int>& v2, int n) {
            int i=0,j=0;
         vector<int> v;
